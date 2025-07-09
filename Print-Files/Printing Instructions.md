@@ -18,9 +18,8 @@ To download a file (such as a `.obj` model or `.md` instruction file) from a Git
 
 1. Navigate to the GitHub repository (or folder) containing the file.
 2. Click on the file name you want to download.
-3. Click the **“Download raw file”** button (usually labeled **“Raw”**) near the top-right of the file view.
-4. Once the raw file opens, **right-click** anywhere on the page and choose **“Save As”** (or press `Ctrl+S` or `Cmd+S`).
-5. Choose a location on your computer and save the file with the correct extension (e.g., `.obj`, `.gcode`, `.md`, etc.).
+3. One you are on the file page click the three dots (...) in the upper righthand corner of the page and select **"Download"**.
+4. The file should appear in the Downloads folder on your computer. 
 
 To download entire repositories or folders:
 1. Go to the repository’s main page.
