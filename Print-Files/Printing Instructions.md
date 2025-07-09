@@ -27,7 +27,7 @@ To download a file (such as a `.obj` model or `.md` instruction file) from a Git
 
 1. Navigate to the GitHub repository (or folder) containing the file.
 2. Click on the file name you want to download.
-3. One you are on the file page click the three dots (...) in the upper righthand corner of the page and select **"Download"**.
+3. Once you are on the file page click the three dots (...) in the upper righthand corner of the page and select **"Download"**.
 4. The file should appear in the Downloads folder on your computer. 
 
 To download entire repositories or folders:
