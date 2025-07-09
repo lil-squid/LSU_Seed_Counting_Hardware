@@ -12,6 +12,23 @@ It may also include color and texture data. These files are created in 3D modeli
 
 ---
 
+## How to Download a File from GitHub
+
+To download a file (such as a `.obj` model or `.md` instruction file) from a GitHub repository:
+
+1. Navigate to the GitHub repository (or folder) containing the file.
+2. Click on the file name you want to download.
+3. Click the **“Download raw file”** button (usually labeled **“Raw”**) near the top-right of the file view.
+4. Once the raw file opens, **right-click** anywhere on the page and choose **“Save As”** (or press `Ctrl+S` or `Cmd+S`).
+5. Choose a location on your computer and save the file with the correct extension (e.g., `.obj`, `.gcode`, `.md`, etc.).
+
+To download entire repositories or folders:
+1. Go to the repository’s main page.
+2. Click the green **“Code”** button.
+3. Select **“Download ZIP”** to download the whole project as a compressed file.
+
+---
+
 ## Setting Up and Using Cura
 
 ### 3. Download and Install Cura
