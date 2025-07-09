@@ -1,4 +1,22 @@
 # Printing Instructions:
+
+## Table of Contents
+- [Getting Started: 3D Printing with Cura and .OBJ Files](#getting-started-3d-printing-with-cura-and-obj-files)
+  - [1. What is Cura?](#1-what-is-cura)
+  - [2. What is a .OBJ File?](#2-what-is-a-obj-file)
+- [How to Download a File from GitHub](#how-to-download-a-file-from-github)
+- [Setting Up and Using Cura](#setting-up-and-using-cura)
+  - [3. Download and Install Cura](#3-download-and-install-cura)
+  - [4. Set Up Your Printer](#4-set-up-your-printer)
+- [Importing and Preparing .OBJ Files](#importing-and-preparing-obj-files)
+  - [5. Import the .OBJ File](#5-import-the-obj-file)
+  - [6. Format and Position the Model](#6-format-and-position-the-model)
+- [Slicing and Exporting](#slicing-and-exporting)
+  - [7. Configure Print Settings](#7-configure-print-settings)
+  - [8. Slice the Model](#8-slice-the-model)
+  - [9. Export the G-code](#9-export-the-g-code)
+- [Modifying the Files](#modifying-the-files)
+
 # Getting Started: 3D Printing with Cura and .OBJ Files
 
 ## 1. What is Cura?
@@ -76,3 +94,19 @@ In the right-hand panel, adjust key settings:
 - Transfer the storage device to your 3D printer and start your print.
 
 For more information on how to use Cura, please visit: [https://ultimaker.com/learn/how-to-use-a-3d-printer/](https://ultimaker.com/learn/how-to-use-a-3d-printer/)
+
+---
+
+## Modifying the Files
+
+Fusion 360 can be used to edit and customize `.obj` files before slicing:
+
+1. Open Fusion 360.
+2. Go to **File → Open** and import your `.obj` file.
+3. Since `.obj` files are mesh-based, use the **Mesh workspace** to modify the model:
+   - Use **Modify → Convert Mesh** to convert the mesh into a solid or surface body if you want to use solid modeling tools.
+4. Make edits such as scaling, cutting, adding features, or combining with other parts.
+5. When finished, export the model back to `.obj` or `.stl` via **File → Export**.
+
+Tip: Converting complex meshes into solids can be processor-intensive; for highly detailed models, consider simplifying the mesh before conversion.
+
