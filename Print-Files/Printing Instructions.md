@@ -2,19 +2,10 @@
 
 ## Table of Contents
 - [Getting Started: 3D Printing with Cura and .OBJ Files](#getting-started-3d-printing-with-cura-and-obj-files)
-  - [1. What is Cura?](#1-what-is-cura)
-  - [2. What is a .OBJ File?](#2-what-is-a-obj-file)
 - [How to Download a File from GitHub](#how-to-download-a-file-from-github)
 - [Setting Up and Using Cura](#setting-up-and-using-cura)
-  - [3. Download and Install Cura](#3-download-and-install-cura)
-  - [4. Set Up Your Printer](#4-set-up-your-printer)
 - [Importing and Preparing .OBJ Files](#importing-and-preparing-obj-files)
-  - [5. Import the .OBJ File](#5-import-the-obj-file)
-  - [6. Format and Position the Model](#6-format-and-position-the-model)
 - [Slicing and Exporting](#slicing-and-exporting)
-  - [7. Configure Print Settings](#7-configure-print-settings)
-  - [8. Slice the Model](#8-slice-the-model)
-  - [9. Export the G-code](#9-export-the-g-code)
 - [Modifying the Files](#modifying-the-files)
 
 # Getting Started: 3D Printing with Cura and .OBJ Files
