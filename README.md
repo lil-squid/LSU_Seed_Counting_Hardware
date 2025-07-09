@@ -4,7 +4,7 @@ This repository contains 3D-printed hardware to assist with counting oyster seed
 
 ## Hardware Printing Instructions
 Navigate into the Print-Files folder to download 3D-printable hardware files.\
-See [Printing Instructions.md](./Printing%20Instructions.md) for full details.
+See [Printing Instructions.md](./Print-Files/Printing%20Instructions.md) for full details.
 
 ## Download Seed Counting Software
 Download at: [https://github.com/LSU-Devision/GUI/releases](https://github.com/LSU-Devision/GUI/releases)
