@@ -8,6 +8,7 @@ This project was funded by NOAA (NOAA-OAR-SG-2024-24794) and was developed by Lo
 
 ## User Guide
 Download the complete User Guide here: [User Guide (PDF)](./User%20Guide%20-%20Seed%20Counting%20Software%20and%20Hardware.pdf).  
+(Click the three dots in the top righthand corner of the screen and select Download).  
 
 ## Hardware 3D-Printing Instructions
 Navigate into the Print-Files folder to download 3D-printable hardware files.\
