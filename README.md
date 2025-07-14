@@ -16,4 +16,4 @@ See [Printing Instructions.md](./Print-Files/Printing%20Instructions.md) for ful
 
 ## Download Seed Counting Software
 Download at: [https://github.com/LSU-Devision/GUI/releases](https://github.com/LSU-Devision/GUI/releases)  
-(For PC computers only. Click the file <u>v1.5-DV-oyster-windows.zip</u> to download) 
+(For PC computers only. Click the file *v1.5-DV-oyster-windows.zip* to download) 
