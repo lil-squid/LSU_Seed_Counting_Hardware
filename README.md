@@ -7,7 +7,7 @@ A full guide to downloading and using the software and hardware components can b
 This project was funded by NOAA (NOAA-OAR-SG-2024-24794) and was developed by Louisiana Sea Grant (under the guidance of Dr. Sarah Bodenstein and Dr. Elizabeth Robinson) with collaboration from the Oyster Team at the LSU Department of Mathematics during the 2024 and 2025 school years.
 
 ## User Guide
-Download the complete User Guide here: [User Guide (PDF)](./User%20Guide%20-%20Seed%20Counting%20Software%20and%20Hardware.pdf)    
+Download the complete User Guide here: [User Guide (PDF)](https://github.com/lil-squid/LSU_Seed_Counting_Hardware/blob/main/Seed%20Counting%20Software%20and%20Hardware%20Guide.pdf)    
 (Click the three dots in the top righthand corner of the screen and select Download).  
 
 ## Hardware 3D-Printing Instructions
